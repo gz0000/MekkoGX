@@ -1,4 +1,4 @@
-PRODUCT = hello
+PRODUCT = triangle
 PLATFORMS += adam
 PLATFORMS += adam_cpm
 PLATFORMS += apple2
